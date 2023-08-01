@@ -1,3 +1,9 @@
-# project-Management-Tool
+Homepage of Netflix:
 
-https://github.com/91prachi74/Project-Management-Tool.git
+Description
+ Source code of Netflix homepage
+ Step 1:
+      create Index.html File
+ Step 2:
+      create style.css File
+
